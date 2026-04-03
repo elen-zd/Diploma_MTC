@@ -30,7 +30,6 @@ class Config:
         "modal_page": "div.mtsds-modal-page--open",
         "close_modal_page": "button[aria-label='Закрыть']",
         "cart_icon": ".cart-button",
-        "cart_item": "[class*='basket-structure__list'],"
-                     " [class*='basket-structure__list-item']",
+        "cart_item": "[class*='basket-structure__list-item']",
         "category_smartfony": "a[href*='smartfony']"
     }
